@@ -1,89 +1,43 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<!DOCTYPE html>
+<html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="Content-Style-Type" content="text/css" />
-<meta http-equiv="Content-Script-Type" content="text/javascript" />
-<meta http-equiv="imagetoolbar" content="no" />
-<meta name="description" content="" />
-<meta name="keywords" content="" />
-<link rel="stylesheet" href="css/common.css" type="text/css" />
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/common.js"></script>
-<script type="text/javascript">
-$(function() {
-    $('#slide').slideshow({
-        autoSlide    : true,
-        effect       : 'fade',
-        type         : 'repeat',
-        interval     : 3000,
-        duration     : 500,
-        imgHoverStop : true,
-        navHoverStop : true
-    });
-    $(window).load(function() {
-        $(".topNaviColumn").uniformHeight();
-    });
-});
-</script>
-<title>Sunpaseo Inc.</title>
+    <meta charset="UTF-8">
+    <title>Sunpaseo Inc.</title>
+    <link rel="stylesheet" href="css/common.css" type="text/css" />
 </head>
 <body>
-<div id="container">
-    <div id="header">
-        <h1>Sunpaseo Inc.</h1>
-        <div id="menu">
-            <ul>
-                <li class="home active"><a href="#">ホーム</a></li>
-                <li><a href="#">会社概要</a></li>
-                <li><a href="#">事業内容</a></li>
-                <li><a href="#">お問い合わせ</a></li>
-            </ul>
-        </div><!-- /#menu -->
-    </div><!-- /#header -->
-    <div id="slide">
-        <ul class="slideInner">
-            <li><img src="images/icatch01.jpg" alt="" width="940" height="300" /></li>
-            <li><img src="images/icatch02.jpg" alt="" width="940" height="300" /></li>
-            <li><img src="images/icatch03.jpg" alt="" width="940" height="300" /></li>
-        </ul>
-         <div class="slidePrev"><img src="images/nav_prev.png" alt="前へ"></div>
-         <div class="slideNext"><img src="images/nav_next.png" alt="次へ"></div>
-         <div class="controlNav"></div>
-    </div><!-- /#slide -->
+    <header>
+        <div id="social">
+            <a href="https://twitter.com/sunpaseo"><img src="images/twitter.png"></a>
+        </div>
+        <h1>
+            <img src="images/logo.png">
+        </h1>
+    </header>
     <div id="contents">
-        <div id="conL">
-            <div class="information">
-                <h2>INFORMATION</h2>
-                <dl>
-                    <dt>2014-07-10</dt>
-                    <dd>Webページを更新しました。</dd>
-                </dl>
-            </div><!-- /.information -->
-        </div><!-- /.conL -->
-        <div id="conR">
-            <div class="submenu">
-            <h3>事業内容</h3>
-                <h4>インターネット事業</h4>
-                <ul>
-                    <li>COMMING SOON</li>
-                </ul>
-            </div><!-- /.submenu -->
-        </div><!-- /.conR -->
-    </div><!-- /#contents -->
-    <div id="footMenu">
-        <ul>
-            <li><a href="#">事業内容</a></li>
-            <li><a href="#">会社概要</a></li>
-            <li><a href="#">お問い合わせ</a></li>
-        </ul>
-    </div><!-- /#footerMenu -->
-    <div id="footer">
-        <div class="copyright">Copyright &copy; 2014 Sunpaseo Inc. All Rights Reserved.</div>
-    </div><!-- /#footer -->
-</div><!-- /#container -->
-<div id="pageTop">
-    <a href="#">ページのトップへ戻る</a>
-</div><!-- /#pageTop -->
+        <h2>Company</h2>
+        <table>
+            <tr>
+                <th>Name</th>
+                <td>Sunpaseo Inc.</td>
+            </tr>
+                <th>Address</th>
+                <td>Ibaraki-Ken Tsukubamirai-City</td>
+            </tr>
+            <tr>
+                <th>Incorporation</th>
+                <td>June 3, 2014</td>
+            </tr>
+        </table>
+        <h2>Contact</h2>
+        <p>
+            <img src="images/mail.png">
+            <img src="images/mail_address.png">
+        </p>
+    </div>
+
+    <footer>
+        <p>Copyright © 2014 Sunpaseo Inc. All Rights Reserved.</p>
+    </footer>
 </body>
 </html>
