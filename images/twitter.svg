@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   id="svg4203"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="twiiter.svg"
+   inkscape:export-filename="/Users/TakahiroSaito/Desktop/画像類/素材/twiiter_button_white.png"
+   inkscape:export-xdpi="36"
+   inkscape:export-ydpi="36">
+  <defs
+     id="defs4205" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#7079bf"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.2407734"
+     inkscape:cx="19.619176"
+     inkscape:cy="15.413959"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="879"
+     inkscape:window-height="684"
+     inkscape:window-x="285"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:object-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5524"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4208">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,-34)">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ffffff;stroke-width:20.91002273999999872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5395"
+       sodipodi:cx="143.63106"
+       sodipodi:cy="252.51262"
+       sodipodi:rx="262.95532"
+       sodipodi:ry="249.69708"
+       d="m 406.58638,252.51262 a 262.95532,249.69708 0 1 1 -525.91064,0 262.95532,249.69708 0 1 1 525.91064,0 z"
+       transform="matrix(0.05425959,0,0,0.05714063,7.1566367,34.621269)"
+       inkscape:export-filename="/Users/TakahiroSaito/Desktop/twitter_button.png"
+       inkscape:export-xdpi="10.81"
+       inkscape:export-ydpi="10.81" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       id="path5558"
+       sodipodi:cx="-355"
+       sodipodi:cy="130"
+       sodipodi:expansion="4.9499998"
+       sodipodi:revolution="2.9000001"
+       sodipodi:radius="98.994949"
+       sodipodi:argument="-19.006636"
+       sodipodi:t0="0.85900003"
+       d="m -400.59867,139.86207 c -17.40818,-30.4535 1.05088,-67.645612 29.76579,-83.067633 26.8196,-14.404104 59.8339,-11.685256 85.83291,3.205597"
+       transform="matrix(-0.0077524,-0.07486825,0.06162621,-0.01600529,3.2455647,23.584272)" />
+    <g
+       id="g2997"
+       transform="matrix(0.05975855,0,0,0.05975855,-0.07927569,59.896177)"
+       style="stroke:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1">
+      <path
+         sodipodi:nodetypes="cscsssssssccsccccssscccccscsccsccc"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         d="m 190.32098,-83.981117 c -11.17546,-2.038505 -27.7321,-7.608426 -38.41384,-12.923002 l -9.70714,-4.829611 7.30577,-0.0682 c 18.71453,-0.1748 34.53026,-4.23237 50.18388,-12.8751 8.81435,-4.86663 12.79413,-7.99377 11.6409,-9.14703 -0.3226,-0.3225 -3.55233,-1.20806 -7.17738,-1.96797 -8.94563,-1.87515 -15.20614,-4.90857 -22.26938,-10.78983 -6.15071,-5.12149 -13.96011,-15.61189 -13.96011,-18.75244 0,-1.6016 0.99689,-1.82554 9.2266,-2.07349 8.63514,-0.26002 11.24062,-1.20139 8.07839,-2.91892 -0.70866,-0.38472 -4.34166,-2.13222 -8.07372,-3.88287 -9.56758,-4.48829 -18.7795,-13.67782 -23.23238,-23.17623 -3.3036,-7.04703 -5.81075,-17.01845 -4.48496,-17.83792 0.36903,-0.22798 3.40784,0.43707 6.75289,1.4782 6.07124,1.88961 13.71465,2.5428 13.62965,1.16488 -0.0259,-0.40039 -2.85601,-3.7855 -6.29164,-7.52299 -10.46676,-11.38518 -14.70914,-22.69697 -13.79276,-36.77646 0.41348,-6.35311 3.74259,-19.03902 4.9964,-19.03902 0.14233,0 3.933,3.53431 8.42384,7.85404 23.4639,22.56955 47.22611,35.02789 76.70534,40.2157 4.47995,0.78845 10.49881,1.43412 13.37513,1.43489 l 5.23005,0.002 -0.61917,-5.26777 c -0.9205,-7.83216 0.99732,-19.27081 4.4725,-26.67418 3.63387,-7.7413 14.39566,-19.02 21.60286,-22.64017 10.54476,-5.29658 22.20522,-6.74568 33.27719,-4.1352 7.65911,1.80573 13.4827,3.51082 19.95805,9.93267 l 9.11517,9.03978 c 11.95743,34.43415 10.75463,4.61392 8.80055,38.37422 -3.9406,68.07976 -50.30245,121.793499 -115.22931,133.501978 -12.15047,2.191139 -38.28967,2.349861 -49.52337,0.300729 l 0,0 z"
+         id="path5526"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2995"
+         d="m 351.65923,-237.21883 c -2.7825,-5.4251 -6.43763,-16.36746 -5.74258,-17.19158 0.60431,-0.71653 31.79782,-5.45577 32.20913,-4.89355 0.38171,0.52178 -21.90751,24.98151 -23.24719,25.51101 -0.66869,0.26428 -2.1174,-1.27736 -3.21936,-3.42588 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
