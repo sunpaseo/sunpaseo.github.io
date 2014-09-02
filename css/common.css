@@ -4,7 +4,7 @@
     padding: 0;
 }
 body {
-    background: #F2EEE8;
+    background: #F2EEE8 url("../images/background.svg") repeat;
 }
 header {
     text-align: center;
@@ -19,7 +19,7 @@ h1 {
     margin: 10px 0;
 }
 h2 {
-    border-left: 8px solid #888;
+    border-left: 8px solid #830;
     padding: 0 0 0 15px;
     margin: 5px 0;
 }
