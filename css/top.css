@@ -8,11 +8,11 @@ body {
 
 }
 a:link{
-    color:black;
-    text-decoration: none;
+color:black;
+text-decoration: none;
 }
 a:visited{
-    text-decoration: none;
+text-decoration: none;
 }
 
 header {
@@ -54,43 +54,37 @@ header {
   border-bottom: 2px dotted black;
 }
 
+
+#contents{
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  clear: left;
+  text-align: center;
+}
+
+a:hover img{
+opacity:0.8;
+filter:alpha(opacity=80);
+-ms-filter: "alpha( opacity=80 )";
+}
+
+
+table{
+  width: 550px;
+  margin: auto;
+}
+
+tr{
+  width: 100px;
+  text-align: center;
+}
+td{
+  font-size: 5px;
+}
+
 p {
     padding: 2px;
-}
-h1 {
-
-    margin: 10px 0;
-}
-h2 {
-    font-size:20px;
-    padding: 10px;
-}
-th {
-    padding-left: 10px;
-    width:150px;
-    font-size:15px;
-    vertical-align: top;
-    text-align: left;
-}
-
-td {
-    padding: 0px 0 25px 0;
-    font-size:15px;
-    text-align: left;
-    vertical-align: top;
-}
-
-span.index{
-    border-left: 4px solid #800000;
-    padding-left: 5px;
-}
-
-#contents {
-    width: 70%;
-    margin: auto;
-    background: #F2EEE8 url("../images/background.png") ;
-    clear: left;
-    box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
 }
 
 footer {
