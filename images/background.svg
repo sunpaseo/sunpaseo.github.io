@@ -14,11 +14,11 @@
    height="200"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.91+devel+osxmenu r12835"
    inkscape:export-filename="/Users/TakahiroSaito/Desktop/haikei2.png"
    inkscape:export-xdpi="3000"
    inkscape:export-ydpi="3000"
-   sodipodi:docname="haikei_01.svg">
+   sodipodi:docname="background.svg">
   <defs
      id="defs4">
     <filter
@@ -46,6 +46,17 @@
          x="79.216507"
          y="815.38104" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7408">
+      <rect
+         style="fill:#26c632;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7;stroke-miterlimit:3.79999995;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7410"
+         width="109.38058"
+         height="97.22718"
+         x="88.950485"
+         y="918.33929" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -55,15 +66,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.90509668"
-     inkscape:cx="482.04419"
-     inkscape:cy="231.56658"
+     inkscape:cx="225.71798"
+     inkscape:cy="98.984059"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1155"
      inkscape:window-height="697"
-     inkscape:window-x="520"
-     inkscape:window-y="98"
+     inkscape:window-x="53"
+     inkscape:window-y="23"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -75,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,8 +97,11 @@
      transform="translate(0,-852.35923)">
     <g
        id="g5161"
-       transform="translate(-93.369905,32.373361)"
-       clip-path="url(#clipPath5183)">
+       transform="matrix(0.9142391,0,0,1.028519,-30.498714,-29.735184)"
+       clip-path="url(#clipPath7408)"
+       inkscape:export-filename="/Users/TakahiroSaito/Desktop/background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <image
          width="470"
          height="263"

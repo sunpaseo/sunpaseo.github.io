@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
 body {
 
 }
@@ -12,85 +11,112 @@ a:link{
     text-decoration: none;
 }
 a:visited{
+    color:black;
     text-decoration: none;
 }
-
+a:hover{
+    border-bottom: 2px dotted black;
+    padding-bottom:5px;
+}
 header {
     text-align: center;
 }
 #social {
     background: #2d2d2d;
-    height:30px;
+    height: 30px;
     padding: 0 2px 0 0;
     border-top: 2px solid #0099cc;
     text-align: right;
 }
-
-#logo{
-    height: 70px;
-    margin-top: 10px;
-    margin-left:100px;
+#gnavi{
+    height: 80px;
+    margin-left: 10%;
+}
+#gnavi img{
+    margin-top: 15px;
+    display: inline-block;
     float: left;
 }
-#navi{
-    height: 80px;
+#gnavi ul{
+    margin-top: 20px;
+    margin-right: 5%;
+    list-style-type: none;
+    display: inline-block;
     float:right;
 }
-
-#navi ul{
-    margin-top: 15px;
-    margin-right: 50px;
-    list-style-type: none;
-
-}
-#navi li{
+#gnavi li{
     margin-top: 15px;
     margin-right: 20px;
     display: inline-block;
     font-size: 20px;
     font-weight: bold;
 }
-#navi li:hover{
-  border-bottom: 2px dotted black;
+#contents {
+    width: 80%;
+    margin: auto;
+    clear: left;
+    text-align: center;
+}
+.slide {
+  max-width: 600px;
+  height: 80%;
+  width: 80%;
+
+}
+.menu{
+  width: 550px;
+  margin: auto;
+  font-size: 5px;
+}
+
+.menu_img{
+  height: 80%;
+  width: 50%;
+}
+
+.menu tr{
+  max-width: 500px;
+  width: 80%;
+  font-size: 10px;
 }
 
 p {
     padding: 2px;
 }
 h1 {
-
     margin: 10px 0;
 }
 h2 {
-    font-size:20px;
+    text-align: left;
+    font-size: 20px;
     padding: 10px;
 }
-th {
+.about{
+    margin:auto;
+    background: #F2EEE8 url("../images/background.png") ;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+}
+.about th {
     padding-left: 10px;
     width:150px;
     font-size:15px;
     vertical-align: top;
     text-align: left;
 }
-
-td {
+.about td {
     padding: 0px 0 25px 0;
     font-size:15px;
     text-align: left;
     vertical-align: top;
 }
-
-span.index{
+.index{
     border-left: 4px solid #800000;
     padding-left: 5px;
 }
-
-#contents {
-    width: 70%;
-    margin: auto;
-    background: #F2EEE8 url("../images/background.png") ;
-    clear: left;
-    box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+a:hover img{
+    opacity:0.8;
+    filter:alpha(opacity=80);
+    -ms-filter: "alpha( opacity=80 )";
 }
 
 footer {
